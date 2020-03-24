@@ -338,3 +338,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+# Don't ignore Data/ OBJ files since they could be 3D files.
+!Data/**/*.obj
