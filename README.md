@@ -17,15 +17,15 @@ Open the solution __KBuffer.sln__ and everything should be ready to go.
 
 ## Controls
 
-When the viewport is focused (just click inside the viewport window to focus) you can rotate the camera by holding the __shift__ key and draging the mouse with the __left button__ down.
+When the viewport is focused (just click inside the viewport window) you can rotate the camera by holding the __shift__ key and draging the mouse with the __left button__ down.
 
-You can zoom by holding the __shift__ key and draging the mouse with the __right button__ down verticaly. You can also use the mouse wheel to zoom.
+You can zoom by holding the __shift__ key and draging verticaly the mouse with the __right button__ down. You can also use the __mouse wheel__ to zoom.
 
 You can change the orbit center of the camera by selecting an object in the __Outliner__ list and pressing the __F__ key.
 
 ## Settings
 
-You can select an object in the __Outliner__ list, when an object is selected its settings appears in the __Details__ window.
+You can select an object in the __Outliner__ list, when an object is selected its settings appear in the __Details__ window.
 
 For example, you can select the *Dragon* and change the translucency parameters.
 
