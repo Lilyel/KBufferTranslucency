@@ -4,7 +4,8 @@ OpenGL implementation of Andreas A. Vasilakis and Ioannis Fudos paper : __K+-buf
 
 Link to paper : https://dl.acm.org/doi/10.1145/2556700.2556702
 
-## Requirements for this demo : 
+## Requirements
+
 - Visual Studio 2019
 - OpenGL 4.5
 
