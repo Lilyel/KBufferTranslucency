@@ -30,6 +30,8 @@ For example, you can select the *Dragon* and change the translucency parameters.
 
 You can also select the *K-Buffer* in the __Resources__ list to change the *K* value and its other parameters.
 
+For the drag float boxes, you can hold the __alt__ key to change the values slower, it can be useful especialy for the __Max Translucency Thickness__ parameter.
+
 ## Scene
 
 The scene should be composed of one yellow opaque plane, a transparent purple shader ball and a translucent green dragon.
