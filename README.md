@@ -8,6 +8,8 @@ Link to paper : https://dl.acm.org/doi/10.1145/2556700.2556702
 - Visual Studio 2019
 - OpenGL 4.5
 
+I used my little engine for this implementation, I hope the code is explicit enough to be easily moved to another framework.
+
 ## Build
 
 Open the solution __KBuffer.sln__ and everything should be ready to go.
@@ -24,10 +26,16 @@ You can change the orbit center of the camera by selecting an object in the __Ou
 
 You can select an object in the __Outliner__ list, when an object is selected its settings appears in the __Details__ window.
 
-For example, you can select the dragon and change the translucency parameters.
+For example, you can select the *Dragon* and change the translucency parameters.
 
-You can also select the K-Buffer in the __Resources__ list to change the value of *K* and its other parameters.
+You can also select the *K-Buffer* in the __Resources__ list to change the *K* value and its other parameters.
 
 ## Scene
 
+The scene should be composed of one yellow opaque plane, a transparent purple shader ball and a translucent green dragon.
 
+![Expected result of the sample scene.](/Data/SampleScene.png)
+
+## Implementation details
+
+You can find the detailed explanation [here](http://www.remimaigne.com/personal-projects/k-buffer-and-translucency).
