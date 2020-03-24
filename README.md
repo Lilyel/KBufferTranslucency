@@ -1,6 +1,6 @@
 # K-Buffer and translucency effect
 
-OpenGL implementation of Andreas A. Vasilakis and Ioannis Fudos paper : __K+-buffer: Fragment Synchronized k-buffer__ and translucency effect using this K-Buffer.
+OpenGL implementation of Andreas A. Vasilakis and Ioannis Fudos paper : __K<sup>+</sup>-buffer: Fragment Synchronized k-buffer__ and translucency effect using this K-Buffer.
 
 Link to paper : https://dl.acm.org/doi/10.1145/2556700.2556702
 
