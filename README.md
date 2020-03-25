@@ -13,7 +13,7 @@ I used my little engine for this implementation, I hope the code is explicit eno
 
 ## Build
 
-Open the solution __KBuffer.sln__ and everything should be ready to go.
+Open the solution __KBuffer.sln__, set the Project property __Debugging/Working Directory__ to *$(OutDir)* and everything should be ready to go.
 
 ## Controls
 
